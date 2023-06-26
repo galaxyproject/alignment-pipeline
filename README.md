@@ -5,7 +5,7 @@ Enable generation of multiple genome alignments in Galaxy.
 ## Phase I
 
 - Develop a Galaxy workflow for generation of pairwise alignments between large genomes using lastz based on either UCSC pipeline logic and/or [`make_lastz_chains`](https://github.com/hillerlab/make_lastz_chains).
-- Use Frontera system for lastz jobs
+- Use [Frontera](https://tacc.utexas.edu/systems/frontera/) system for lastz jobs
 
 ## Phase II
 
