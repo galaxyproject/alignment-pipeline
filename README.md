@@ -9,7 +9,7 @@ Enable generation of multiple genome alignments in Galaxy.
 
 ## Phase II
 
-- Explore "drop-in" replacament with [segalign](https://github.com/gsneha26/SegAlign)
+- Explore "drop-in" replacement with [segalign](https://github.com/gsneha26/SegAlign)
 - Combine multiple pairiwse alignment into multiple alignments using [`multiz`](https://github.com/multiz/multiz)
 
 ## Phase III
