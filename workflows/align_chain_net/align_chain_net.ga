@@ -225,7 +225,7 @@
                 "owner": "devteam",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
-            "tool_state": "{\"ref\": {\"ref_source\": \"history\", \"__current_case__\": 0, \"input\": {\"__class__\": \"ConnectedValue\"}, \"keep_first\": \"0\", \"keep_first_word\": false}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_state": "{\"ref\": {\"ref_source\": \"history\", \"__current_case__\": 0, \"input\": {\"__class__\": \"ConnectedValue\"}, \"keep_first\": \"0\", \"keep_first_word\": true}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
             "tool_version": "1.0.4",
             "type": "tool",
             "uuid": "f6aa1c46-70e3-4bd6-9804-517d9163ae22",
@@ -356,7 +356,7 @@
                 "owner": "devteam",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
-            "tool_state": "{\"ref\": {\"ref_source\": \"history\", \"__current_case__\": 0, \"input\": {\"__class__\": \"ConnectedValue\"}, \"keep_first\": \"0\", \"keep_first_word\": false}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
+            "tool_state": "{\"ref\": {\"ref_source\": \"history\", \"__current_case__\": 0, \"input\": {\"__class__\": \"ConnectedValue\"}, \"keep_first\": \"0\", \"keep_first_word\": true}, \"__page__\": 0, \"__rerun_remap_job_id__\": null}",
             "tool_version": "1.0.4",
             "type": "tool",
             "uuid": "5765100f-d7f9-4044-acca-232a2ad59a3a",
